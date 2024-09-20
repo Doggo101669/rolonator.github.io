@@ -1,0 +1,52 @@
+:root {
+  --background-color1: #181926;
+  --background-color2: #1e2030;
+  --background-color3: #24273a;
+  --background-color4: #363a4f;
+  --text-color: #cad3f5;
+  --primary-color: #8aadf4;
+  --secondary-color: #4fdaa8;
+}
+
+html {
+  font-family: "Helvetica", sans-serif, serif;
+  background-color: var(--background-color3);
+  color: var(--text-color);
+}
+
+.menu-bar {
+  box-shadow: 0 0.2rem 0.2rem 0.2rem rgba(0, 0, 0, 0.5);
+  padding: 0.5rem;
+  margin: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 5rem;
+}
+
+.menu-button-container {
+  position: fixed;
+  top: 0.5rem;
+  right: 1rem;
+  background-color: var(--background-color2);
+  padding: 0.4rem;
+  padding-top: 1.75rem;
+  padding-bottom: 1.75rem;
+}
+
+.menu-button {
+  background-color: var(--background-color1);
+  padding: 1rem;
+  margin: 0.4rem;
+  white-space: nowrap;
+  transition-property: color, background-color;
+  transition-duration: 0.5s;
+  transition-behavior: ease;
+}
+
+.menu-button:hover {
+  background-color: var(--primary-color);
+  cursor: pointer;
+  color: var(--background-color1);
+}
