@@ -50,3 +50,36 @@ html {
   cursor: pointer;
   color: var(--background-color1);
 }
+
+.button-container {
+  background-color: var(--background-color2);
+  padding: 0.4rem;
+  padding-top: 1.75rem;
+  padding-bottom: 1.75rem;
+}
+
+.button {
+  background-color: var(--background-color1);
+  padding: 1rem;
+  margin: 0.4rem;
+  white-space: nowrap;
+  transition-property: color, background-color;
+  transition-duration: 0.5s;
+  transition-behavior: ease;
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.button:hover {
+  background-color: var(--primary-color);
+  cursor: pointer;
+  color: var(--background-color1);
+  text-decoration: none;
+}
