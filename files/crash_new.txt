@@ -1,0 +1,316 @@
+Prism Launcher version: 9.2 (archlinux)
+
+
+Launched instance in online mode
+
+login.microsoftonline.com resolves to:
+    [20.190.147.11, 20.190.177.20, 20.190.147.8, 20.190.177.22, 20.190.177.85, 20.190.147.1, 20.190.177.83, 20.190.147.6, 2603:1026:3000:110::2, 2603:1026:3000:108::3, 2603:1026:3000:118::5, 2603:1026:3000:118::1, 2603:1026:3000:118::2, 2603:1027:1:108::10, 2603:1027:1:108::b, 2603:1027:1:108::8]
+
+
+session.minecraft.net resolves to:
+    [13.107.246.76, 2620:1ec:bdf::76]
+
+
+textures.minecraft.net resolves to:
+    [13.107.246.76, 2620:1ec:bdf::76]
+
+
+api.mojang.com resolves to:
+    [13.107.246.76, 2620:1ec:bdf::76]
+
+
+Minecraft folder is:
+/home/isaac/.local/share/PrismLauncher/instances/i cant beeleive it/minecraft
+
+
+Java path is:
+/home/isaac/.local/share/PrismLauncher/java/java-runtime-gamma/bin/java
+
+
+Java is version 17.0.8, using 64 (amd64) architecture, from Microsoft.
+
+
+AMD Ryzen 7 2700X Eight-Core Processor
+NVIDIA Corporation GA104 [GeForce RTX 3070] (rev a1)
+
+Subsystem: Gigabyte Technology Co., Ltd Device 404c
+
+Kernel driver in use: nvidia
+
+OpenGL version string: 4.6.0 NVIDIA 570.86.16
+
+Main Class:
+  io.github.zekerzhayard.forgewrapper.installer.Main
+
+Native path:
+  /home/isaac/.local/share/PrismLauncher/instances/i cant beeleive it/natives
+
+Traits:
+traits feature:is_quick_play_multiplayer
+traits FirstThreadOnMacOS
+traits XR:Initial
+traits feature:is_quick_play_singleplayer
+
+Libraries:
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw-natives-linux/3.3.2-lwjgl.1/lwjgl-glfw-natives-linux-3.3.2-lwjgl.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc-natives-linux/3.3.1/lwjgl-jemalloc-natives-linux-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-natives-linux/3.3.1/lwjgl-natives-linux-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-openal-natives-linux/3.3.1/lwjgl-openal-natives-linux-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl-natives-linux/3.3.1/lwjgl-opengl-natives-linux-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-stb-natives-linux/3.3.1/lwjgl-stb-natives-linux-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd-natives-linux/3.3.1/lwjgl-tinyfd-natives-linux-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/github/oshi/oshi-core/6.2.2/oshi-core-6.2.2.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/google/code/gson/gson/2.10/gson-2.10.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/ibm/icu/icu4j/71.1/icu4j-71.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/mojang/authlib/4.0.43/authlib-4.0.43.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/mojang/brigadier/1.1.8/brigadier-1.1.8.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/mojang/logging/1.1.1/logging-1.1.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/io/netty/netty-buffer/4.1.82.Final/netty-buffer-4.1.82.Final.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/io/netty/netty-codec/4.1.82.Final/netty-codec-4.1.82.Final.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/io/netty/netty-common/4.1.82.Final/netty-common-4.1.82.Final.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/io/netty/netty-handler/4.1.82.Final/netty-handler-4.1.82.Final.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/io/netty/netty-resolver/4.1.82.Final/netty-resolver-4.1.82.Final.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/io/netty/netty-transport-classes-epoll/4.1.82.Final/netty-transport-classes-epoll-4.1.82.Final.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/io/netty/netty-transport-native-epoll/4.1.82.Final/netty-transport-native-epoll-4.1.82.Final-linux-aarch_64.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/io/netty/netty-transport-native-epoll/4.1.82.Final/netty-transport-native-epoll-4.1.82.Final-linux-x86_64.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/io/netty/netty-transport-native-unix-common/4.1.82.Final/netty-transport-native-unix-common-4.1.82.Final.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/io/netty/netty-transport/4.1.82.Final/netty-transport-4.1.82.Final.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/it/unimi/dsi/fastutil/8.5.9/fastutil-8.5.9.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/joml/joml/1.10.5/joml-1.10.5.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/io/github/zekerzhayard/ForgeWrapper/prism-2024-02-29/ForgeWrapper-prism-2024-02-29.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/jodah/typetools/0.6.3/typetools-0.6.3.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/fmlloader/1.20.1-47.3.29/fmlloader-1.20.1-47.3.29.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.29/fmlearlydisplay-1.20.1-47.3.29.jar
+  /home/isaac/.local/share/PrismLauncher/libraries/com/mojang/minecraft/1.20.1/minecraft-1.20.1-client.jar
+
+Native libraries:
+
+Mods:
+  [✔] AdvancedPeripherals-1.20.1-0.7.41r
+  [✔] appleskin-forge-mc1.20.1-2.5.1
+  [✔] architectury-9.2.14-forge
+  [✔] blueprint-1.20.1-7.1.1
+  [✔] catloaf-1.1.0-1.20.x-FORGE
+  [✔] cc-tweaked-1.20.1-forge-1.115.0
+  [✔] chat_heads-0.13.13-forge-1.20
+  [✔] citadel-2.6.1-1.20.1
+  [✔] dynamic-fps-3.7.7+minecraft-1.20.0-forge
+  [✔] embeddium-0.3.31+mc1.20.1
+  [✔] emi-1.1.20+1.20.1+forge
+  [✔] entity_model_features_forge_1.20.1-2.4.1
+  [✔] entity_texture_features_forge_1.20.1-6.2.9
+  [✔] entityculling-forge-1.7.2-mc1.20.1
+  [✔] faunify-forge-1.20.1-1.1.2
+  [✔] ferritecore-6.0.1-forge
+  [✔] geckolib-forge-1.20.1-4.7
+  [✔] Highlighter-1.20.1-forge-1.1.9
+  [✔] Iceberg-1.20.1-forge-1.1.25
+  [✔] iChunUtil-1.20.1-Forge-1.0.3
+  [✔] identity-2.7.1-1.20.1-forge
+  [✔] ImmediatelyFast-Forge-1.3.4+1.20.4
+  [✔] Jade-1.20.1-Forge-11.12.3
+  [✔] LetSleepingDogsLie-1.20.1-Forge-1.3.0
+  [✔] markdown_manual-MC1.20.1-forge-1.2.5+c3f0b88
+  [✔] memoryleakfix-forge-1.17+-1.1.5
+  [✔] meowing-1.20.1-forge-1.4
+  [✔] modelfix-1.15
+  [✔] modernfix-forge-5.20.2+mc1.20.1
+  [✔] MouseTweaks-forge-mc1.20.1-2.25.1
+  [✔] NoChatReports-FORGE-1.20.1-v2.2.2
+  [✔] notenoughanimations-forge-1.9.2-mc1.20.1
+  [✔] oc2r-1.20.1-forge-1.1.0+83b6d4e4
+  [✔] pet_cemetery-1.20.1-2.0.0
+  [✔] Rats-1.20.1-8.1.3
+  [✔] sedna-1.18.2-forge-1.0.15+24e9fd2
+  [✔] skinlayers3d-forge-1.7.4-mc1.20.1
+  [✔] snekcraft-1.1.6
+  [✔] sound-physics-remastered-forge-1.20.1-1.4.8
+  [✔] tame_the_fox-1.0-1.20.1
+  [✔] the_bumblezone-7.5.14+1.20.1-forge
+  [✔] Xaeros_Minimap_25.1.0_Forge_1.20
+  [✔] XaerosWorldMap_1.39.2_Forge_1.20
+
+Params:
+  --username  --version 1.20.1 --gameDir /home/isaac/.local/share/PrismLauncher/instances/i cant beeleive it/minecraft --assetsDir /home/isaac/.local/share/PrismLauncher/assets --assetIndex 5 --uuid  --accessToken  --userType  --versionType release --launchTarget forgeclient --fml.forgeVersion 47.3.29 --fml.mcVersion 1.20.1 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20230612.114412
+
+Window size: 854 x 480
+
+Launcher: standard
+
+Java Arguments:
+[-Xms256m, -Xmx6144m, -Duser.language=en]
+
+
+Minecraft process ID: 10575
+
+
+Checking: MC_SLIM
+Checking: MERGED_MAPPINGS
+Checking: MAPPINGS
+Checking: MC_EXTRA
+Checking: MOJMAPS
+Checking: PATCHED
+Checking: MC_SRG
+2025-02-19 15:15:50,673 main WARN Advanced terminal features are not available in this environment
+[15:15:50] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, earthannihilator, --version, 1.20.1, --gameDir, /home/isaac/.local/share/PrismLauncher/instances/i cant beeleive it/minecraft, --assetsDir, /home/isaac/.local/share/PrismLauncher/assets, --assetIndex, 5, --uuid, <PROFILE ID>, --accessToken, ❄❄❄❄❄❄❄❄, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 47.3.29, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --width, 854, --height, 480]
+[15:15:50] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Microsoft; OS Linux arch amd64 version 6.13.2-zen1-1-zen
+[15:15:51] [main/INFO] [ne.mi.fm.lo.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[15:15:51] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[15:15:51] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[15:15:51] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/isaac/.local/share/PrismLauncher/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23140!/ Service=ModLauncher Env=CLIENT
+[15:15:51] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce RTX 3070/PCIe/SSE2 GL version 4.6.0 NVIDIA 570.86.16, NVIDIA Corporation
+[15:15:51] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.29/fmlcore-1.20.1-47.3.29.jar is missing mods.toml file
+[15:15:51] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.29/javafmllanguage-1.20.1-47.3.29.jar is missing mods.toml file
+[15:15:51] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.29/lowcodelanguage-1.20.1-47.3.29.jar is missing mods.toml file
+[15:15:51] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/isaac/.local/share/PrismLauncher/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.29/mclanguage-1.20.1-47.3.29.jar is missing mods.toml file
+[15:15:51] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[15:15:53] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15:15:53] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
+[15:15:53] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[15:15:53] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, /home/isaac/.local/share/PrismLauncher/instances/i cant beeleive it/minecraft, --assetsDir, /home/isaac/.local/share/PrismLauncher/assets, --uuid, <PROFILE ID>, --username, earthannihilator, --assetIndex, 5, --accessToken, ❄❄❄❄❄❄❄❄, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[15:15:53] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[15:15:53] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[15:15:53] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[15:15:53] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 92 options available, 0 override(s) found
+[15:15:53] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Searching for graphics cards...
+[15:15:53] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=GA104 [GeForce RTX 3070], version=570.86.16]
+[15:15:53] [main/WARN] [Embeddium-Workarounds/]: Embeddium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[15:15:53] [main/WARN] [Embeddium-Workarounds/]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[15:15:55] [main/WARN] [mixin/]: Error loading class: mezz/jei/library/load/PluginCaller (java.lang.ClassNotFoundException: mezz.jei.library.load.PluginCaller)
+[15:15:55] [main/WARN] [mixin/]: Error loading class: net/irisshaders/batchedentityrendering/impl/FullyBufferedMultiBufferSource (java.lang.ClassNotFoundException: net.irisshaders.batchedentityrendering.impl.FullyBufferedMultiBufferSource)
+[15:15:55] [main/WARN] [mixin/]: Error loading class: net/irisshaders/iris/layer/InnerWrappedRenderType (java.lang.ClassNotFoundException: net.irisshaders.iris.layer.InnerWrappedRenderType)
+[15:15:55] [main/WARN] [mixin/]: Error loading class: net/irisshaders/iris/layer/OuterWrappedRenderType (java.lang.ClassNotFoundException: net.irisshaders.iris.layer.OuterWrappedRenderType)
+[15:15:55] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[15:15:55] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[15:15:56] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:15:56] [main/INFO] [mixin/]: Mixing client.MixinMinecraft from mixins/common/nochatreports.mixins.json into net.minecraft.client.Minecraft
+[15:15:57] [pool-4-thread-1/INFO] [minecraft/Bootstrap]: ModernFix reached bootstrap stage (8.500 s after launch)
+[15:15:57] [pool-4-thread-1/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[15:15:57] [pool-4-thread-1/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+Exception caught from launcher
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.github.zekerzhayard.forgewrapper.installer.Main.main(Main.java:67)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:32)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+	... 8 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.29/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.29/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.29/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	... 15 more
+Caused by: java.lang.RuntimeException: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.29/net.minecraftforge.fml.loading.BackgroundWaiter.runAndTick(BackgroundWaiter.java:32)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.main.Main.main(Main.java:151)
+	... 23 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/forge@47.3.29/net.minecraftforge.registries.GameData.init(GameData.java:107)
+	at TRANSFORMER/forge@47.3.29/net.minecraftforge.registries.GameData.<clinit>(GameData.java:93)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.registries.BuiltInRegistries.forge(BuiltInRegistries.java:429)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.registries.BuiltInRegistries.forge(BuiltInRegistries.java:409)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.registries.BuiltInRegistries.<clinit>(BuiltInRegistries.java:121)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.Bootstrap.m_135870_(Bootstrap.java:43)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.main.Main.lambda$main$0(Main.java:151)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.spongepowered.asm.mixin.injection.throwables.InjectionError: Critical injection failure: Redirector cancelAirIncrement(Lnet/minecraft/world/entity/LivingEntity;I)V in identity.mixins.json:LivingEntityMixin failed injection check, (0/1) succeeded. Scanned 1 target(s). Using refmap identity-common-refmap.json
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.injection.struct.InjectionInfo.postInject(InjectionInfo.java:468)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1362)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1051)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:400)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365)
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+	... 25 more
+Exiting with ERROR
+Process exited with code 2.
+Clipboard copy at: 19 Feb 2025 15:26:37 +0000
